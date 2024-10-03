@@ -90,7 +90,9 @@ print(y_prednew)
 ![image](https://github.com/user-attachments/assets/83136d53-d407-43db-8a3c-332e24a97cc6)
 ![image](https://github.com/user-attachments/assets/e2eb7a0e-db68-4daa-8b74-d03f18d6c71c)
 ![image](https://github.com/user-attachments/assets/d8ab2cce-8846-495e-8b64-8be4c5e244f9)
+
 ![image](https://github.com/user-attachments/assets/4ca395d9-9237-4a74-a00e-9c8370c9e05a)
+
 ![image](https://github.com/user-attachments/assets/8595325f-8230-476c-842c-642af389a781)
 
 
